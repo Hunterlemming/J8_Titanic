@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="J8_Titanic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/J8_Titanic_jar</output-path>
+    <root id="archive" name="J8_Titanic.jar">
+      <element id="module-output" name="J8_Titanic" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Dependencies/derby.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Dependencies/derbynet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Dependencies/derbytools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Dependencies/derbyclient.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
